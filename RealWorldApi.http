@@ -1,0 +1,6 @@
+@RealWorldApi_HostAddress = http://localhost:5085
+
+GET {{RealWorldApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
