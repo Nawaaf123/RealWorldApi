@@ -20,7 +20,7 @@ app.MapControllers();
 
 app.MapGet("/version", () =>
 {
-    return new { version = "v1", time = DateTime.Now.ToString() };
+    return new { version = "v2", time = DateTime.Now.ToString() };
 });
 
 app.Run();
