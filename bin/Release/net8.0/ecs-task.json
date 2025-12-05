@@ -1,0 +1,21 @@
+{
+  "family": "realworld-task",
+  "executionRoleArn": "arn:aws:iam::<979581550322>:role/ecsTaskExecutionRole",
+  "networkMode": "awsvpc",
+  "requiresCompatibilities": [ "FARGATE" ],
+  "cpu": "256",
+  "memory": "512",
+  "containerDefinitions": [
+    {
+      "name": "realworld-container",
+      "image": "<979581550322>.dkr.ecr.us-east-2.amazonaws.com/<realworld-api>:latest",
+      "portMappings": [
+        {
+          "containerPort": 8080,
+          "protocol": "tcp"
+        }
+      ],
+      "essential": true
+    }
+  ]
+}

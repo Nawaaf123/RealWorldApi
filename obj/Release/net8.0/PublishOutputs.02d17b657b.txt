@@ -1,0 +1,12 @@
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\RealWorldApi.exe
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\appsettings.Development.json
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\appsettings.json
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\ecs-task.json
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\RealWorldApi.dll
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\RealWorldApi.deps.json
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\RealWorldApi.runtimeconfig.json
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\RealWorldApi.pdb
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\Microsoft.OpenApi.dll
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nawaa\Desktop\Realworldapi\RealWorldApi\RealWorldApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
